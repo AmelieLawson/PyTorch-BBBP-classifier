@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The aim of this project was to train a two-layer, feed-forward neural network to predict if a molecule would penetrate the blood-brain barrier based on its SMILES string.
+This was my very first PyTorch project. Its aim was to train a two-layer, feed-forward neural network to predict whether a molecule would penetrate the blood-brain barrier based on its SMILES string.
 
 ## Dataset
 
