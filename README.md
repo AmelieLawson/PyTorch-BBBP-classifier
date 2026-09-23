@@ -73,6 +73,6 @@ Below is a summary of what I learnt while completing this project:
 - Try building a neural network using `nn.Module` instead, and develop a better understanding of how this differs from `nn.Sequential`.
 - Learn more about the other optimizers and the conditions in which they would be used.
 - Learn more about how "training mode" and "evaluation mode" differ, and why they are important to clarify.
-- Develop a better overall understanding of neural networks (so I can identify my misconceptions and hopefully spot any errors in my explanations above)
+- Develop a better overall understanding of neural networks so I can identify my own misconceptions and hopefully spot any errors in my explanations above.
 
 
